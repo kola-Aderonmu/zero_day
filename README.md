@@ -1,3 +1,1 @@
-#my first readme
-**Good**
-
+Hello Ubuntu
